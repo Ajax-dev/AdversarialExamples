@@ -1,0 +1,22 @@
+All taken from the Linnaeus dataset
+http://chaladze.com/l5/
+
+All images are saved as filenumber_resolution.jpg in original dataset
+Changed for ease of use
+
+flamingo2.jpg = ./test/bird/38.jpg
+eagle.jpg = ./test/bird/46.jpg
+
+duck.jpg = ./train/bird/2.jpg
+duck2.jpg = ./train/bird/14.jpg
+ostrich.jpg = ./train/bird/23.jpg
+hen.jpg = ./train/bird/35.jpg
+peacock.jpg = ./train/bird/41.jpg
+flamingo.jpg = ./train/bird/50.jpg
+
+german_shepherd.jpg = ./train/dog/37.jpg
+weimaraner.jpg = ./train/dog/48.jpg
+pug.jpg = ./train/dog/736.jpg
+chihuahua.jpg = ./train/dog/1106.jpg
+
+strawberry.jpg = ./train/berry/12.jpg
